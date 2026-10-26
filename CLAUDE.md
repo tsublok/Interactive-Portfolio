@@ -4,7 +4,7 @@ Personal portfolio for Tanvir Sublok, live at **https://tanvir.sublok.dev**.
 
 ## Where things live
 - **Local folder:** `~/Documents/Projects/my-portfolio` (the only working copy)
-- **GitHub:** https://github.com/Strikr321/Interactive-Portfolio (branch `main`)
+- **GitHub:** https://github.com/tsublok/Interactive-Portfolio (branch `main`)
 - **Hosting:** Vercel project `interactive-portfolio`. Every push to `main` auto-deploys in about a minute.
 - **Domain:** `tanvir.sublok.dev` is a CNAME in Cloudflare (DNS only, not proxied) on `sublok.dev`, which is owned by Tanvir's dad (Psublok's Cloudflare account; Tanvir is a member). Only touch the `tanvir` record. Never change nameservers or other records.
 

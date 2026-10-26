@@ -37,7 +37,7 @@ export const profile = {
   resume: '', // Put a PDF in /public (e.g. public/resume.pdf) and set this to '/resume.pdf'. Leave out your phone and street address!
 
   links: {
-    github: 'https://github.com/Strikr321',
+    github: 'https://github.com/tsublok',
     linkedin: 'https://www.linkedin.com/in/tanvir-sublok-692911137',
     email: 'tanvirsublok@gmail.com',
   },
@@ -110,7 +110,7 @@ export const profile = {
       description:
         'Recipe app with role-based access control, a Javalin REST backend and a four-page vanilla JavaScript frontend using the Fetch API. 127/127 automated tests passing.',
       tech: ['Java', 'Javalin', 'JavaScript', 'HTML', 'CSS'],
-      github: 'https://github.com/Strikr321/Strikr321-PEP-GP-WebDevProject-Recipe',
+      github: 'https://github.com/tsublok/Strikr321-PEP-GP-WebDevProject-Recipe',
     },
     {
       name: 'Spring Social Media API',
@@ -118,7 +118,7 @@ export const profile = {
       description:
         'A Spring Boot rebuild of my social media API using dependency injection, ResponseEntity and Spring Data JPA with Hibernate-generated SQL. 28/28 tests passing.',
       tech: ['Java', 'Spring Boot', 'Spring Data JPA', 'Hibernate'],
-      github: 'https://github.com/Strikr321/Strikr321-PEP-SpringSocialMediaBlogAPI-Project',
+      github: 'https://github.com/tsublok/Strikr321-PEP-SpringSocialMediaBlogAPI-Project',
     },
     {
       name: 'Social Media Blog API',
@@ -126,7 +126,7 @@ export const profile = {
       description:
         'A social media backend with 8 endpoints, a three-layer architecture (controller, service, DAO) and business rule validation. 23/23 tests passing.',
       tech: ['Java', 'Javalin', 'JDBC', 'SQL'],
-      github: 'https://github.com/Strikr321/Strikr321-PEP-SocialMediaBlogAPI-Project',
+      github: 'https://github.com/tsublok/Strikr321-PEP-SocialMediaBlogAPI-Project',
     },
     {
       name: 'Warframe Fashionframe',
@@ -134,7 +134,7 @@ export const profile = {
       description:
         'Turns Warframe character screenshots and in-game customization data into shareable poster cards.',
       tech: ['Angular', 'TypeScript'],
-      github: 'https://github.com/Strikr321/warframe-runway',
+      github: 'https://github.com/tsublok/warframe-runway',
       inProgress: true,
     },
     {
@@ -143,7 +143,7 @@ export const profile = {
       description:
         'The site you’re on. Built with React and TypeScript, styled with Tailwind CSS, animated with Motion, and deployed on Vercel.',
       tech: ['React', 'TypeScript', 'Tailwind CSS', 'Vite'],
-      github: 'https://github.com/Strikr321/Interactive-Portfolio',
+      github: 'https://github.com/tsublok/Interactive-Portfolio',
       live: 'https://tanvir.sublok.dev',
     },
   ] as Project[],
